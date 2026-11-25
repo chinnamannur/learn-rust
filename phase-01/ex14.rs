@@ -9,4 +9,4 @@ fn main(){
 
 // constants can be present outside the function
 // constants can overshadow the other constants in the global and scope
-// constants  with same name in scope will end up error
+
