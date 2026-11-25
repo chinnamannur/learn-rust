@@ -10,5 +10,6 @@ fn main(){
 /*
   * it produce error because constants cannot have runtime expressions
   *  constants should have only compile time expressions
+  * constants are immutable 
 
 */
