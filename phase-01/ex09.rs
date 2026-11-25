@@ -7,4 +7,5 @@ fn main(){
 }
 
 // produce mismatch types error
-// so type is bounded we cannot make mutable variable
+// mut allows the value to be changed
+// mut does not allows to chnage type
