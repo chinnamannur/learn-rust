@@ -5,3 +5,4 @@ fn main(){
     println!("{}",x);
 }
 // Placeholders are replaced by variables
+// The type infers from compiler
