@@ -4,4 +4,4 @@ fn main(){
     println!("{}",x);
 }
 
-// If Variables is not intialised it will give error
+// Using variables which are  not intialised is illegal 
