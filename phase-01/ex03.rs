@@ -4,7 +4,7 @@ fn main(){
 }
 
 /* 
-* Variables is not intialised  we dont know types
-* It gives compier error
+* Variables is not intialised
+* It gives compier error because it does not know type
 
 */
