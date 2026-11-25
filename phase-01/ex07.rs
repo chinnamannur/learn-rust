@@ -9,4 +9,5 @@ fn main(){
 /* 
   * In Rust Variables are immutable by default
   * changing the immutable will produce error
+  * You can read but value did not change; it happens at compile error not runtime
 */
