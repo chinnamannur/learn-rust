@@ -7,4 +7,6 @@ fn main(){
 }
 
 
-// The above ccode runs because constants can be present  in the outside of function
+// constants can be present outside the function
+// constants can overshadow the other constants in the global and scope
+// constants  with same name in scope will end up error
